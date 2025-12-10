@@ -6,3 +6,4 @@
   - Testing permeability through micmic tissue 
   - Generalized Linear Model (GLM), including the model and testing 'hits' 
 
+This project is now published! Check it out [here](https://pubs.acs.org/doi/10.1021/acsomega.5c07587)!
